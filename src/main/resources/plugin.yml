@@ -1,0 +1,6 @@
+name: NoSlashes
+version: ${project.version}
+main: me.NoSlashes.LoJoSho
+api-version: 1.16
+authors: [Formgate, LoJoSho]
+description: A plugin to not have slashes in console
